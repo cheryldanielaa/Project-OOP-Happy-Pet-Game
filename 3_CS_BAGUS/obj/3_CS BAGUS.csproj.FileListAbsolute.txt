@@ -1,0 +1,117 @@
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.exe.config
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.exe
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.pdb
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormChangePet.resources
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormGame.resources
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectPet.resources
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectPlayer.resources
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectToys.resources
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormToysShop.resources
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.Properties.Resources.resources
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.exe
+C:\Users\Asus\Desktop\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.pdb
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.exe.config
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.exe
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.pdb
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.AssemblyReference.cache
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormChangePet.resources
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormGame.resources
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectPet.resources
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectPlayer.resources
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectToys.resources
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormToysShop.resources
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.Properties.Resources.resources
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.GenerateResource.cache
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.CoreCompileInputs.cache
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.exe
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.pdb
+C:\Users\Bagus Malikan Gani\OneDrive\Documents\OOP 2023\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormTutorial.resources
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.exe.config
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.exe
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.pdb
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormChangePet.resources
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormGame.resources
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormOutfit.resources
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormOutside.resources
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectOutfit.resources
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectPet.resources
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectPlayer.resources
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectToys.resources
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormToysShop.resources
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormTutorial.resources
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.Properties.Resources.resources
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.exe
+C:\Users\Asus\Downloads\3_CS BAGUS\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.pdb
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.exe.config
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.exe
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.pdb
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormChangePet.resources
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormGame.resources
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormOutfit.resources
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormOutside.resources
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectOutfit.resources
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectPet.resources
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectPlayer.resources
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectToys.resources
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormToysShop.resources
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormTutorial.resources
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.Properties.Resources.resources
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.exe
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.pdb
+C:\Users\Asus\Downloads\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormPauseGame.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.exe.config
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.exe
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.pdb
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.AssemblyReference.cache
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.SuggestedBindingRedirects.cache
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormChangePet.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormGame.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormOutfit.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormOutside.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormPauseGame.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectOutfit.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectPet.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectPlayer.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectToys.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormToysShop.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormTutorial.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.Properties.Resources.resources
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.GenerateResource.cache
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.CoreCompileInputs.cache
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.exe
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.pdb
+D:\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormMysteryBox.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.exe.config
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.exe
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\bin\Debug\3_CS BAGUS.pdb
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormChangePet.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormGame.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormMysteryBox.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormOutfit.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormOutside.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormPauseGame.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectOutfit.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectPet.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectPlayer.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormSelectToys.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormToysShop.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.FormTutorial.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\_3_CS_BAGUS.Properties.Resources.resources
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.exe
+C:\Users\Asus\Documents\3_CS BAGUS trakhir (1)\3_CS BAGUS trakhir\3_CS BAGUS trakhir\3_CS BAGUS\3_CS BAGUS\obj\Debug\3_CS BAGUS.pdb
