@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_3_CS_BAGUS.Pet">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIkigCAFYAAggYBAAAECAQAAAgEAQAAgAQAAAAAAAg=</HashCode>
+      <FileName>Pet.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Outfit" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="listToys" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="_3_CS_BAGUS.Chameleon">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgAAAQAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chameleon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_CS_BAGUS.Cat">
+    <Position X="1.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABgAgAAAQAAIAIAAAAAAAABAAAAAUAAgAAAAAAAQAA=</HashCode>
+      <FileName>Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_CS_BAGUS.Fish">
+    <Position X="4.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Fish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_CS_BAGUS.Player">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAgAAAAAAAAIAAAACAQAAAEEAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_CS_BAGUS.Toy">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAhgAAAAYAAAAAAAAAAAAQAAAAEAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Toy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_CS_BAGUS.Outfit">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAhgAAAAYAAAAAAAAAAAAQAAAAEAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Outfit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_CS_BAGUS.Pig">
+    <Position X="6.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgAAAAAAAAIAAAAAAAABAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_CS_BAGUS.Potion">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAAAAAAAAAAAQAAEAEAgBAAAIAgAAAAIA=</HashCode>
+      <FileName>Potion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
